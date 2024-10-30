@@ -14,7 +14,6 @@ dependencies:
     sdk: flutter
   http: ^0.13.3  # Move the http dependency here, correctly formatted
   cupertino_icons: ^1.0.2
-  device_preview: ^1.2.0
 
 dev_dependencies:
   flutter_test:
