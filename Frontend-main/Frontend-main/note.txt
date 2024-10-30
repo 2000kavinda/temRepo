@@ -1,7 +1,0 @@
-8th August
-
-Platform  Firebase App Id
-android   1:330564975000:android:7b6ae247b59de8f97293ed
-ios       1:330564975000:ios:61a841595d7c21df7293ed
-
-keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
